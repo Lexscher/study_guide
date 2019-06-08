@@ -4,8 +4,8 @@ This high-level programming language was developed & designed by [Yukihiro “Ma
 
 Fun facts:
 
-    - Ruby is implemented in [c]().
+- Ruby is implemented in [c](../c/description.md).
 
-    - Ruby was created because Matz was looking for a more programmer friendly language, but couldn't find one.
+- Ruby was created because Matz was looking for a more programmer friendly language, but couldn't find one.
 
-    - Ruby is an interpreted scripting language.
+- Ruby is an interpreted scripting language.
