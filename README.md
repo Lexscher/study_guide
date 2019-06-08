@@ -1,4 +1,4 @@
-# Hey!
+# READ ME
 
 I've gathered a few resources over the past few months, and I thought it be cool to have them all in one place.
 I want this to be a tool to help anyone find a little more guidance, no matter what field they're interested in.
