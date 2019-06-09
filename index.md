@@ -25,3 +25,14 @@ Example:
             └── tutorials.md
     ...
 ```
+
+### Categories:
+
+- [C](./c/description.md)
+- BASH/Command Line
+- C++
+- [Git](./git_vc/description.md)
+- Java
+- JavaScript
+- Python
+- [Ruby](./ruby/description.md)

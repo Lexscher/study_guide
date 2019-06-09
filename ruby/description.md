@@ -9,3 +9,7 @@ Fun facts:
 - Ruby was created because Matz was looking for a more programmer friendly language, but couldn't find one.
 
 - Ruby is an interpreted scripting language.
+
+---
+
+**[Home Page](/index.md)**

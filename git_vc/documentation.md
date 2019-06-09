@@ -9,3 +9,11 @@
 - [Git Cheat Sheet](https://github.github.com/training-kit/)
 
 - [git-scm](https://git-scm.com/docs) docs are super great!
+
+---
+
+**[Description](./description.md)**
+
+**[Tutorials & Walkthroughs](./tutorials.md)**
+
+**[Home Page](/index.md)**
