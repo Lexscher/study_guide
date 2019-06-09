@@ -9,3 +9,7 @@ Fun Facts:
 - C is a high-level programming language, however it's a lower level than it's best friend, c++, as well as other object oriented programming languages.
 
 - C allows for allocation of memory.
+
+---
+
+**[Home Page](/index.md)**
