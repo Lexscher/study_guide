@@ -1,0 +1,34 @@
+{
+  "name": "study_guide",
+  "version": "1.0.0",
+  "description": "An open-source study guide, for devs!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexscher/study_guide.git"
+  },
+  "keywords": [
+    "study",
+    "guide",
+    "open-source",
+    "markdown",
+    "git",
+    "bash",
+    "c",
+    "c++",
+    "java",
+    "javascript",
+    "ruby",
+    "python",
+    "resources"
+  ],
+  "author": "Alexander Schelchere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lexscher/study_guide/issues"
+  },
+  "homepage": "https://github.com/Lexscher/study_guide#readme"
+}
