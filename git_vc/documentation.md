@@ -16,4 +16,4 @@
 
 **[Tutorials & Walkthroughs](./tutorials.md)**
 
-**[Home Page](/index.md)**
+**[Home Page](../index.md)**
