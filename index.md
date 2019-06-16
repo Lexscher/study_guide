@@ -33,6 +33,6 @@ Example:
 - C++
 - [Git](./git_vc/description.md)
 - Java
-- JavaScript
+- [JavaScript](./javascript/description.md)
 - Python
 - [Ruby](./ruby/description.md)
