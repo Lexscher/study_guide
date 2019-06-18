@@ -30,7 +30,7 @@ Example:
 
 - [C](./c/description.md)
 - BASH/Command Line
-- C++
+- [C++](./cplusplus/description.md)
 - [Git](./git_vc/description.md)
 - [Java](./java/description.md)
 - [JavaScript](./javascript/description.md)
