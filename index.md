@@ -32,7 +32,7 @@ Example:
 - BASH/Command Line
 - C++
 - [Git](./git_vc/description.md)
-- Java
+- [Java](./java/description.md)
 - [JavaScript](./javascript/description.md)
 - Python
 - [Ruby](./ruby/description.md)
